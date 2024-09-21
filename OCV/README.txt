@@ -3,3 +3,5 @@ here u have used open cv to capture one image through
 webcam and flip the image and show in window
 
 and also have included the python file
+
+this is without Cmake file
